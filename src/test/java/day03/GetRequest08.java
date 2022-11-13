@@ -75,6 +75,13 @@ public class GetRequest08 extends GMIBankBaseURL {
         assertEquals(expectedData.get("ssn"), actualData.get("ssn"));
 
 
-    }
 
+
+
+
+
+    }
 }
+
+
+
