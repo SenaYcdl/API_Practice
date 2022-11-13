@@ -49,5 +49,12 @@ public class ReadText {
             e.printStackTrace();
         }
         return all;
+
+
+
+
+
+
+
     }
 }
