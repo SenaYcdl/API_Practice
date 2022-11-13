@@ -363,5 +363,12 @@ public class H1 {
         response.then().body("support.url", equalTo("https://reqres.in/#support-heading"),
                 "support.text", equalTo("To keep ReqRes free, contributions towards server costs are appreciated!"));
 
+
+
+
+
+
+
+
     }
 }
