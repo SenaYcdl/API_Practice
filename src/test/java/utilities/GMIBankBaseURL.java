@@ -11,5 +11,9 @@ public class GMIBankBaseURL extends Authentication{
     @Before
     public void setUp(){
         spec01 = new RequestSpecBuilder().setBaseUri("https://www.gmibank.com/api/").build();
+
+
+
+
     }
 }
