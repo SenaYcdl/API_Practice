@@ -18,5 +18,10 @@ public class JsonUtil {
             System.err.println("json datası javaya dönüştürülemedi");
         }
         return javaResult;
+
+
+
+
+
     }
 }
