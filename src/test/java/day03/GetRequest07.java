@@ -49,5 +49,10 @@ public class GetRequest07 extends GMIBankBaseURL {
         assertEquals("40207", json.getString("zipCode"));
         assertEquals("San Jose", json.getString("country.name"));
         assertEquals("delilah.metz", json.getString("user.login"));
+
+
+
+
+
     }
 }
