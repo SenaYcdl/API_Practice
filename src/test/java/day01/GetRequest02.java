@@ -35,5 +35,12 @@ public class GetRequest02 {
         response.then().body("data[0].email", equalTo("george.bluth@reqres.in")
                 , "data[0].first_name", equalTo("George")
                 , "data[0].last_name", equalTo("Bluth"));
+
+
+
+
+
+
+
     }
 }
