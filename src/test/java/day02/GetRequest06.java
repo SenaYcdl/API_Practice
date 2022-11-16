@@ -44,5 +44,10 @@ public class GetRequest06 extends Authentication {
         assertEquals("CREDIT_CARD", json.getString("accounts[0].accountType"));
         assertEquals(11190, json.getInt("accounts[1].balance"));
         assertEquals("CHECKING", json.getString("accounts[1].accountType"));
+
+
+
+
+
     }
 }
