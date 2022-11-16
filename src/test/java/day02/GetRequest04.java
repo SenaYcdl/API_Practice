@@ -38,6 +38,13 @@ ve gelen yaslar icinde 21, 61, ve 23 degerlerinden birinin oldugunu test edin.
       Matchers.hasItem(): Girilen tek bir data'yı doğrulamak için kullanılır.
       Matchers.hasItems(): Girilen birden fazla datayı doğrulamak için kullanılır.
          */
+
+
+
+
+
+
+
     }
 
 }
