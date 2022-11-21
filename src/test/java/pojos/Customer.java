@@ -230,9 +230,5 @@ public class Customer {
                 ", state='" + state + '\'' +
                 ", user=" + user +
                 '}';
-
-
-
-
     }
 }
