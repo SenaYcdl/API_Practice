@@ -78,18 +78,5 @@ public class GetRequest09 extends GMIBankBaseURL {
         assertEquals(expectedData.getUser().getLogin(), actualData2.getUser().getLogin());
         assertEquals(expectedData.getCountry().getName(), actualData2.getCountry().getName());
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
