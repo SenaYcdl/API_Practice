@@ -61,11 +61,5 @@ public class WriteToText {
         } catch (Exception e) {
         }
 
-
-
-
-
-
-
     }
 }
