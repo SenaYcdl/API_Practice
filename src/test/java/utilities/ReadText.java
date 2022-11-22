@@ -50,11 +50,5 @@ public class ReadText {
         }
         return all;
 
-
-
-
-
-
-
     }
 }
